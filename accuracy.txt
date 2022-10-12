@@ -1,0 +1,28 @@
+Learning rate is : 0.3       Accuracy is : 0.6
+Learning rate is : 0.3       Accuracy is : 0.6
+Learning rate is : 0.3       Accuracy is : 0.7
+Learning rate is : 0.3       Accuracy is : 0.6
+Learning rate is : 0.3       Accuracy is : 0.6
+Learning rate is : 0.3       Accuracy is : 0.6
+Learning rate is : 0.3       Accuracy is : 0.7
+Learning rate is : 0.3       Accuracy is : 0.7
+Learning rate is : 0.3       Accuracy is : 0.6
+Learning rate is : 0.3       Accuracy is : 0.6
+Learning rate is : 0.3       Accuracy is : 0.7
+Learning rate is : 0.3       Accuracy is : 0.7
+Learning rate is : 0.3       Accuracy is : 0.5
+Learning rate is : 0.3       Accuracy is : 0.5
+Learning rate is : 0.3       Accuracy is : 0.7
+Learning rate is : 0.3       Accuracy is : 0.6
+Learning rate is : 0.3       Accuracy is : 0.6
+Learning rate is : 0.3       Accuracy is : 0.6
+Learning rate is : 0.3       Accuracy is : 1.0
+La tasa de aprendizaje es : 0.3       La precisión es : 1.0
+La tasa de aprendizaje es : 0.3       La precisión es : 1.0
+La tasa de aprendizaje es : 0.3       La precisión es : 0.7
+La tasa de aprendizaje es : 0.3       La precisión es : 1.0
+La tasa de aprendizaje es : 0.3       La precisión es : 1.0
+La tasa de aprendizaje es : 0.3       La precisión es : 0.6
+La tasa de aprendizaje es : 0.3       La precisión es : 1.0
+La tasa de aprendizaje es : 0.3       La precisión es : 1.0
+La tasa de aprendizaje es : 0.3       La precisión es : 1.0
